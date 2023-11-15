@@ -3,6 +3,6 @@
 ```smalltalk
 Metacello new
     baseline: 'VMPluginsPrimitives';
-    repository: 'github://massimo-nocentini/vm-plugins-primitives.st';
+    repository: 'github://bauing-schmidt/vm-plugins-primitives.st';
     load
 ```
